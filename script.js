@@ -4,3 +4,4 @@ function greet() {
 
 console.log("Website loaded!");
 console.log("1");
+console.log("2");
